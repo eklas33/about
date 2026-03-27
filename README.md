@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Hi, I'm Eklas
+# 👋 Hi, I'm Ahsan Mohammed
 
 💻 **Software Developer | Vue.js | Mobile Apps | AI Enthusiast**
 🚀 Passionate about building modern, scalable, and intelligent applications
